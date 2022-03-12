@@ -9,7 +9,7 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandersonrp&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Wanderson-Java" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Wanderson-Java" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
 ##
