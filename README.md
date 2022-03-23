@@ -21,4 +21,3 @@
   
 <div>  
   
- ![Snake animation](https://github.com/Wandersonrp/Wandersonrp/blob/output/github-contribution-grid-snake.svg)
