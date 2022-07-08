@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Wanderson Rodrigues 👋🏽
 
 - 👨🏽‍💻 Cursando Desenvolvimento de Sistemas e aluno Transforma Tec
-- 🌱 Estudando Java ☕
 
 <div align="center">
   <a href="https://github.com/Wandersonrp">
