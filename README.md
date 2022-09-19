@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Wanderson Rodrigues 👋🏽
 
-- 👨🏽‍💻 Cursando técnico em Desenvolvimento de Sistemas
+- 👨🏽‍💻 Cursando técnico em Desenvolvimento de Sistemas;
+- 👨🏽‍💻 Desenvolvimento back-end em C# e plataforma DotNet;
+- 👨🏽‍💻 Banco de dados MySQL.
 
 <div align="center">
   <a href="https://github.com/Wandersonrp">
