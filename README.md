@@ -2,7 +2,7 @@
 
 - 👨🏽‍💻 Cursando técnico em Desenvolvimento de Sistemas;
 - 👨🏽‍💻 Desenvolvimento back-end em C# e plataforma DotNet;
-- 👨🏽‍💻 Banco de dados MySQL.
+- 👨🏽‍💻 Banco de dados SQL.
 
 <div align="center">
   <a href="https://github.com/Wandersonrp">
