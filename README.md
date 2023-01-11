@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Wanderson Rodrigues 👋🏽
 
+- 👨🏽‍💻 Estagiário de Desenvolvimento de Sistemas;
+- 👨🏽‍💻 Cursando bacharelado em Engenharia de Sofrware;
 - 👨🏽‍💻 Cursando técnico em Desenvolvimento de Sistemas;
 - 👨🏽‍💻 Desenvolvimento back-end em C# e plataforma DotNet;
 - 👨🏽‍💻 Banco de dados SQL.
