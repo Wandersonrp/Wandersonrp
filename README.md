@@ -3,7 +3,7 @@
 - 👨🏽‍💻 Estagiário de Desenvolvimento de Sistemas;
 - 👨🏽‍💻 Cursando bacharelado em Engenharia de Sofrware;
 - 👨🏽‍💻 Cursando técnico em Desenvolvimento de Sistemas;
-- 👨🏽‍💻 Desenvolvimento back-end em C# e plataforma DotNet;
+- 👨🏽‍💻 Desenvolvimento back-end em C# e plataforma .Net;
 - 👨🏽‍💻 Banco de dados SQL.
 
 <div align="center">
