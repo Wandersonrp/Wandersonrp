@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Wanderson Rodrigues 👋🏽
 
-- 👨🏽‍💻 Estagiário de Desenvolvimento de Sistemas;
+- 👨🏽‍💻 Desenvolvedor de Software na empresa JB Software e Investimentos;
 - 👨🏽‍💻 Cursando bacharelado em Engenharia de Sofrware;
 - 👨🏽‍💻 Cursando técnico em Desenvolvimento de Sistemas;
 - 👨🏽‍💻 Desenvolvimento back-end em C#, Aps.Net Core e .Net;
