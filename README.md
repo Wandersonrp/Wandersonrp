@@ -2,7 +2,7 @@
 
 - 👨🏽‍💻 Desenvolvedor de Software na empresa JB Software e Investimentos;
 - 👨🏽‍💻 Cursando bacharelado em Engenharia de Sofrware;
-- 👨🏽‍💻 Cursando técnico em Desenvolvimento de Sistemas;
+- 👨🏽‍💻 Técnico em Desenvolvimento de Sistemas;
 - 👨🏽‍💻 Desenvolvimento back-end em C#, Aps.Net Core e .Net;
 - 👨🏽‍💻 Banco de dados SQL.
 
