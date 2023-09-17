@@ -3,7 +3,7 @@
 - 👨🏽‍💻 Desenvolvedor de Software na empresa BTTIS Soluções em Software;
 - 👨🏽‍💻 Cursando Bacharelado em Engenharia de Sofrware;
 - 👨🏽‍💻 Técnico em Desenvolvimento de Sistemas;
-- 👨🏽‍💻 Desenvolvedor back-end em C#, .Net e NodeJs.
+- 👨🏽‍💻 Desenvolvedor back-end C#, .Net e NodeJs.
 
 <div align="center">
   <a href="https://github.com/Wandersonrp">
