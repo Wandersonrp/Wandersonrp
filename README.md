@@ -3,7 +3,7 @@
 - 👨🏽‍💻 Desenvolvedor de Software na empresa Bttis Soluções em Software;
 - 👨🏽‍💻 Cursando bacharelado em Engenharia de Sofrware;
 - 👨🏽‍💻 Técnico em Desenvolvimento de Sistemas;
-- 👨🏽‍💻 Desenvolvimento back-end em C#, .Net e NodeJs;
+- 👨🏽‍💻 Desenvolvedor back-end em C#, .Net e NodeJs;
 - 👨🏽‍💻 Banco de dados SQL.
 
 <div align="center">
