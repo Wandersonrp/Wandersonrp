@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Wanderson Rodrigues 👋🏽
 
-- 👨🏽‍💻 Desenvolvedor de Software na empresa Bttis Soluções em Software;
+- 👨🏽‍💻 Desenvolvedor de Software na empresa BTTIS Soluções em Software;
 - 👨🏽‍💻 Cursando bacharelado em Engenharia de Sofrware;
 - 👨🏽‍💻 Técnico em Desenvolvimento de Sistemas;
 - 👨🏽‍💻 Desenvolvedor back-end em C#, .Net e NodeJs;
