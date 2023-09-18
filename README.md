@@ -2,7 +2,7 @@
 
 👋 Sou desenvolvedor de software na empresa BTTIS. Atualmente estou focado em desenvolvimento web backend com Node.js e TypeScript, com experiência anterior em desenvolvimento desktop com C# e .NET.
 
-📘 Possuo formação no curso técnico de Desenvolvimento de Sistemas, e estou cursando o bacharelado em Engenharia de Software.
+📘 Possuo formação no curso técnico em Desenvolvimento de Sistemas, e estou cursando o bacharelado em Engenharia de Software.
 
 💡 Estou sempre em busca de oportunidades para aprender e crescer como desenvolvedor. Se você estiver interessado em conectar, colaborar em projetos ou discutir oportunidades profissionais, não hesite em me enviar uma mensagem.
 
