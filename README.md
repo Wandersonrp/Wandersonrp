@@ -1,18 +1,18 @@
-### Olá! Eu sou o Wanderson Rodrigues 👋🏽
+# 💫 About Me:
+### Olá! Eu sou o Wanderson Rodrigues 👋🏽<br><br>👋 Sou desenvolvedor de software na empresa BTTIS. Atualmente estou focado em desenvolvimento web backend com Node.js e TypeScript, com experiência anterior em desenvolvimento desktop com C# e .NET.<br><br>📘 Possuo formação no curso técnico em Desenvolvimento de Sistemas, e estou cursando o bacharelado em Engenharia de Software.<br><br>💡 Estou sempre em busca de oportunidades para aprender e crescer como desenvolvedor. Se você estiver interessado em conectar, colaborar em projetos ou discutir oportunidades profissionais, não hesite em me enviar uma mensagem.
 
-👋 Sou desenvolvedor de software na empresa BTTIS. Atualmente estou focado em desenvolvimento web backend com Node.js e TypeScript, com experiência anterior em desenvolvimento desktop com C# e .NET.
 
-📘 Possuo formação no curso técnico em Desenvolvimento de Sistemas, e estou cursando o bacharelado em Engenharia de Software.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wanderson-rodriguesp/) 
 
-💡 Estou sempre em busca de oportunidades para aprender e crescer como desenvolvedor. Se você estiver interessado em conectar, colaborar em projetos ou discutir oportunidades profissionais, não hesite em me enviar uma mensagem.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Wandersonrp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Wandersonrp&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wandersonrp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <a href="https://github.com/Wandersonrp">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Wandersonrp&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandersonrp&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-<div>
-    <a href="https://www.linkedin.com/in/wanderson-rodriguesp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     <a href = "mailto:wandersonrp.49@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<div>  
-  
+---
+[![](https://visitcount.itsvg.in/api?id=Wandersonrp&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
