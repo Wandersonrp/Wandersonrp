@@ -1,9 +1,10 @@
 ### Olá! Eu sou o Wanderson Rodrigues 👋🏽
 
-- Desenvolvedor de Software na empresa BTTIS Soluções em Software;
-- Cursando Bacharelado em Engenharia de Sofrware;
-- Técnico em Desenvolvimento de Sistemas;
-- Desenvolvedor back-end C#, .Net e NodeJs.
+👋 Sou desenvolvedor de software na empresa BTTIS. Atualmente estou focado em desenvolvimento web backend com Node.js e TypeScript, com experiência anterior em desenvolvimento desktop com C# e .NET.
+
+📘 Possuo formação no curso técnico de Desenvolvimento de Sistemas, e estou cursando o bacharelado em Engenharia de Software.
+
+💡 Estou sempre em busca de oportunidades para aprender e crescer como desenvolvedor. Se você estiver interessado em conectar, colaborar em projetos ou discutir oportunidades profissionais, não hesite em me enviar uma mensagem.
 
 <div align="center">
   <a href="https://github.com/Wandersonrp">
@@ -12,8 +13,6 @@
 </div>
 <div>
     <a href="https://www.linkedin.com/in/wanderson-rodriguesp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.instagram.com/wanderson_rodriguesp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href = "mailto:wandersonrp.49@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
 <div>  
   
