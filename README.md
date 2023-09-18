@@ -1,4 +1,4 @@
-# 💫 Sobre Mim:
+# 💻 Sobre Mim:
 ### Olá! Eu sou o Wanderson Rodrigues 👋🏽<br><br>👋 Sou desenvolvedor de software na empresa BTTIS. Atualmente estou focado em desenvolvimento web backend com Node.js e TypeScript, com experiência anterior em desenvolvimento desktop com C# e .NET.<br><br>📘 Possuo formação no curso técnico em Desenvolvimento de Sistemas, e estou cursando o bacharelado em Engenharia de Software.<br><br>💡 Estou sempre em busca de oportunidades para aprender e crescer como desenvolvedor. Se você estiver interessado em conectar, colaborar em projetos ou discutir oportunidades profissionais, não hesite em me enviar uma mensagem.
 
 
