@@ -1,5 +1,5 @@
 # 💻 About me:
-### Hello! I am Wanderson Rodrigues 👋🏽<br><br>👋🏽 I am a software developer at BTTIS. Currently, I am focused on web backend development with Node.js and TypeScript, with previous experience in desktop development using C# and .NET.<br><br>📘 I have a technical degree in Software Development and I am pursuing a bachelor's degree in Software Engineering.<br><br>💡  I am always seeking opportunities to learn and grow as a developer. If you are interested in connecting, collaborating on projects, or discussing professional opportunities, please don't hesitate to send me a message.
+### Hello! I am Wanderson Rodrigues 👋🏽<br><br>👋🏽 I am a software developer at BTTIS. Currently, I am focused on web backend development with Node.js, NestJs and TypeScript, with previous experience in desktop development using C# and .NET.<br><br>📘 I have a technical degree in Software Development and I am pursuing a bachelor's degree in Software Engineering.<br><br>💡  I am always seeking opportunities to learn and grow as a developer. If you are interested in connecting, collaborating on projects, or discussing professional opportunities, please don't hesitate to send me a message.
 
 
 ## 🌐 Network:
