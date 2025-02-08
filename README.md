@@ -1,17 +1,17 @@
 # 🖐🏽 Olá, Wanderson aqui 🚀
 
-### Sou desenvolvedor de software backend com experiência no desenvolvimento frontend e mobile com C# e .Net Blazor(Web) e .Net Blazor Hybrid Maui(mobile).<br/><br/>
-### Possuo formação no curso Técnico em Desenvolvimento de Sistemas - SENAI e atualmente estou cursando Engenharia de Software - UNINTER.
+Sou desenvolvedor de software backend com experiência no desenvolvimento frontend e mobile com C# e .Net Blazor(Web) e .Net Blazor Hybrid Maui(mobile).<br/><br/>
+Possuo formação no curso Técnico em Desenvolvimento de Sistemas - SENAI e atualmente estou cursando Engenharia de Software - UNINTER.
 
-### Essas são as tecnologias de desenvolvimento que possuo experiência profissional:
+Essas são as tecnologias de desenvolvimento que possuo experiência profissional:
 
-#### - C#;
-#### - ASP.NET Core;
-#### - .Net Blazor;
-#### - .Net Blazor Hybrid Maui;
-#### - Typescript / Javascript;
-#### - Node.js; e
-#### - NestJs.
+- C#;
+- ASP.NET Core;
+- .Net Blazor;
+- .Net Blazor Hybrid Maui;
+- Typescript / Javascript;
+- Node.js; e
+- NestJs.
 
 ## 🌐 Onde encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanderson-rodriguesp/) 
