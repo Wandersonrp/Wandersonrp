@@ -1,12 +1,24 @@
-# 💻 About me:
-### Hello! I am Wanderson Rodrigues 👋🏽<br><br>👋🏽 I am a software developer at BTTIS. Currently, I am focused on web backend development with Node.js, NestJs and TypeScript, with previous experience in desktop development using C# and .NET.<br><br>📘 I have a technical degree in Software Development and I am pursuing a bachelor's degree in Software Engineering.<br><br>💡  I am always seeking opportunities to learn and grow as a developer. If you are interested in connecting, collaborating on projects, or discussing professional opportunities, please don't hesitate to send me a message.
+# 🖐🏽 Olá, Wandernson aqui 🚀
 
+Sou desenvolvedor de software backend com experiência no desenvolvimento frontend e mobile com C# e .Net Blazor(Web) e .Net Blazor Hybrid Maui(mobile).
+Possuo formação no curso Técnico em Desenvolvimento de Sistemas - SENAI e atualmente estou cursando Engenharia de Software - UNINTER.
 
-## 🌐 Network:
+Essas são as tecnologias de desenvolvimento que possuo experiência profissional:
+
+- C#;
+- ASP.NET Core;
+- .Net Blazor;
+- .Net Blazor Hybrid Maui;
+- Typescript / Javascript;
+- Node.js; e
+- NestJs.
+
+## 🌐 Onde encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanderson-rodriguesp/) 
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Static Badge](https://img.shields.io/badge/blazor-logo?style=flat&logo=blazor&logoColor=%23FFFFFF&color=%23512BD4) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Wandersonrp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wandersonrp&theme=dark&hide_border=false)<br/>
