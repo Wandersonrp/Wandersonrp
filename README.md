@@ -17,7 +17,8 @@ Essas são as tecnologias de desenvolvimento que possuo experiência profissiona
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanderson-rodriguesp/) 
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Static Badge](https://img.shields.io/badge/blazor-logo?style=flat-square&logo=blazor&logoColor=%23FFFFFF&color=%23512BD4) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Static Badge](https://img.shields.io/badge/.net-logo?style=flat-square&logo=dotnet&logoColor=%23FFFFFF&color=%23512BD4)
+ ![Static Badge](https://img.shields.io/badge/blazor-logo?style=flat-square&logo=blazor&logoColor=%23FFFFFF&color=%23512BD4) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Wandersonrp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
