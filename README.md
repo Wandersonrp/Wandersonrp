@@ -18,7 +18,7 @@ Essas são as tecnologias de desenvolvimento que possuo experiência profissiona
 
 # 💻 Tech Stack:
 ![Static Badge](https://img.shields.io/badge/C%23-logo?style=flat-square&logoColor=%23FFFFFF&color=%23280068) ![Static Badge](https://img.shields.io/badge/.Net-logo?style=flat-square&logo=dotnet&logoColor=%23FFFFFF&color=%23512BD4) ![Static Badge](https://img.shields.io/badge/blazor-logo?style=flat-square&logo=blazor&logoColor=%23FFFFFF&color=%23512BD4) ![Static Badge](https://img.shields.io/badge/JavaScript-logo?style=flat-square&logo=javascript&logoColor=%23000000&color=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/TypeScript-logo?style=flat-square&logo=typescript&logoColor=%23FFFFFF&color=%233178C6) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Wandersonrp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
