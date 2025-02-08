@@ -1,6 +1,6 @@
 # 🖐🏽 Olá, Wanderson aqui 🚀
 
-Sou desenvolvedor de software backend com experiência no desenvolvimento frontend e mobile com C# e .Net Blazor(Web) e .Net Blazor Hybrid Maui(mobile).
+Sou desenvolvedor de software backend com experiência no desenvolvimento frontend e mobile com C# e .Net Blazor(Web) e .Net Blazor Hybrid Maui(mobile).<br/>
 Possuo formação no curso Técnico em Desenvolvimento de Sistemas - SENAI e atualmente estou cursando Engenharia de Software - UNINTER.
 
 Essas são as tecnologias de desenvolvimento que possuo experiência profissional:
