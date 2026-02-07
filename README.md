@@ -1,6 +1,6 @@
 # 🖐🏽 Olá, sou o Wanderson Rodrigues!
 
-**Software Engineer | .NET Specialist**
+**Software Engineer | Desenvolvedor .NET**
 
 Sou um entusiasta do ecossistema .NET, focado em construir aplicações robustas e escaláveis. Meu objetivo no GitHub é explorar novas tecnologias e aplicar padrões de arquitetura modernos.
 
